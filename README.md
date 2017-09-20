@@ -1,6 +1,6 @@
 # WebScrapingCine
 Ejemplo de Web Scraping de Cine Sur
-##Librerias necesarias
+## Librerias necesarias
 ### Requests
 pip install requests
 ### Beautiful Soup 4
